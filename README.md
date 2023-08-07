@@ -1,8 +1,8 @@
 # ENG006
-https://youtu.be/G_pogBDC6fQ
-Page
-1
-of 5
+# https://youtu.be/G_pogBDC6fQ
+
+
+
 ENG6 Fall 2020 Final Project
 Up to now in ENG6, we have focused on teaching you the “how” of programming. In the team
 project you will be taking your own ideas and bringing them to fruition through your knowledge
